@@ -2,7 +2,7 @@
     <b>Welcome to my profile page! 😄</b><br><br>
     <i>
         I'm Nivisan<br>
-        Current learning about Cloud environements such as Azure, AWS and Google.<br>
+        Current learning about The deeper working of the Linux Kernel and the Linux environment<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://ch.linkedin.com/in/nivisan-jeyananthan-4628421b3">
@@ -26,3 +26,9 @@
   </a>
     </p>
   </section>
+  
+<p align="right">
+    <i>
+    I use Arch btw.
+    </i>
+</p>
