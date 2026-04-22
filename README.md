@@ -2,7 +2,7 @@
     <b>Welcome to my profile page! 😄</b><br><br>
     <i>
         I'm Nivisan<br>
-        Current learning about The deeper working of the Linux Kernel and the Linux environment<br>
+        Current learning about advanced optimization techniques and Linux<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://ch.linkedin.com/in/nivisan-jeyananthan-4628421b3">
